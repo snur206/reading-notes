@@ -23,4 +23,4 @@ Three reminders keep myself in a growth mindset:
 2. Do not be lazy. Do not hit the snooze button. Get up and Get active. 
 3. Ask yourself questions about you. What did you do today? Were you productive or did you procrastinate? So that you can improve internally.
 
-Link to my github protfolio: [(https://github.com/snur206/)]
+Link to my github protfolio: [ (https://github.com/snur206/) ]
