@@ -1,5 +1,7 @@
 # Class 2 reading notes
 
+Text editor is a software that you install/download that will let you write/text as you build your webpage. Examples of some of the software tools used are Microsoft Word, Google Docs, NotePad and Apple Pages. This is used to edit text. Some features that is looked for is code completion,  syntax highlighting, a nice variety of themes (so it would reduce eye strain and fatigue) and the ability to choose from a healthy selection of extensions available when you need them. Code editors is alternatively where you would write codes. Some examples are Github Atom, Microsoft's, vs. Code Visual studio, Notepad++ and Vim. Integrated Development Environment is a software that everything comes together. An IDE is a text editor, a file manager, a compiler, and a debugger all in one software package. The comparison between text editors, coding specific editor and IDEs  is that they all involve text.
+
 Basic Commands:
 
 Print working directory: ~pwd ells you what your current or present working directory is. Where are we currently
