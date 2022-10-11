@@ -10,5 +10,7 @@ Markdown applications support the basic syntax outlined in the original Markdown
 * To bold text, add two asterisks or underscores before and after a word or phrase. For example, **This is bold text**
 * To italicize, add one asterisk or underscore before and after a word or phrase. For example,  *This text is italicized*
 * For bold and italicize text, add three asterisks or underscores before and after a word or phrase. For example, ***All this text is important***
-  [Reference 1](https://www.markdownguide.org/basic-syntax/)
-  [Reference 2](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+  
+  
+[Reference 1](https://www.markdownguide.org/basic-syntax/)
+[Reference 2](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
