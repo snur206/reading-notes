@@ -1,8 +1,8 @@
-# Class 1 reading notes
+# [Class 1 reading notes](https://snur206.github.io/reading-notes/)
 
 My notes about **Markdown**.
 
-Markdown applications support the basic syntax outlined in the original Markdown design document.
+Markdown applications support the basic syntax outlined in the original Markdown design document. It is a software tool that uses text into a html. It is also used to make the webpage easier to read. You can add specific ways you would want your text to look. From bold, italicize, as well as wanting to do both, you can edit as you please using markdown. You can also add list (ordered or unorderd), images, headings and links. A tool to design your webpage.
 
 * To create a heading, add number signs (#) in front of a word or phrase. The number of number signs you use should correspond to the heading level. For example, to create a heading level three (<h3>), use three number signs (e.g., ### My Header). 
 * Markdown applications support the basic syntax outlined in the original Markdown design document.
