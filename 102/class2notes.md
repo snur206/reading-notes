@@ -18,18 +18,13 @@ Touch: create new file
 
 Cd space .. takes back one space
 
-# of Dots takes back directory
-
-Hit tab to auto complete 
+Hit tab to auto complete
 
 []- items are optional, may run the command w/ or w/o them
 
 Normal file ( - ) Directory ( d )
 
 ( /etc )- tells ls not to list current directory  but list the directories contents
-
-
-
 
 Command line will give you a prompt that will be displayed
 
@@ -45,15 +40,15 @@ Enter spaces to separate  (MUST use between command and first command line argu
 
 List options before other arguments that would start with ( - )
 
-Most commands produce output and it will be listed straight under the issuing of the command. 
+Most commands produce output and it will be listed straight under the issuing of the command.
 
 After the command has run and the terminal is ready for you to enter another command the prompt will be displayed. If no prompt is displayed then the command may still be running (you will learn later how to deal with this).
 
 Terminal won’t have numbers most likely
 
-Open Terminal Applications -> Utilities or search in the ,magnify glass 
+Open Terminal Applications -> Utilities or search in the ,magnify glass
 
-Shell is part of the operating system that defines how the terminal behaves/;pols after running the commands 
+Shell is part of the operating system that defines how the terminal behaves/;pols after running the commands.
 
 Most common is called bash, stands for Bourne again shell
 
