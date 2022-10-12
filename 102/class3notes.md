@@ -1,4 +1,4 @@
-# Class 3 Reading Notes
+# [Class 3 Reading Notes](https://github.com/snur206/reading-notes/blob/main/102/class3notes.md)
 
 **Version Control** 
 
