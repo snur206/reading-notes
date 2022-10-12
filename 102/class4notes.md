@@ -43,12 +43,8 @@ consider a function that takes a string parameter, and returns an <li>
 consider styling a list with li
 *HTML*
 <h1>
-Some of the benefits from writing semantic markup are as follows:
-- Search engines will consider its contents as important keywords to influence the page's search rankings (
-- Screen readers can use it as a signpost to help visually impaired users navigate a page
-- Finding blocks of meaningful code is significantly easier than searching through endless divs with or without semantic or namespaced classes
-- Suggests to the developer the type of data that will be populated
-- Semantic naming mirrors proper custom element/component naming
+
+Semantic naming mirrors proper custom element/component naming
 Roughly 100 semantic elements are available.
 
-https://github.com/snur206/reading-notes/edit/main/102/class4notes.md
+
