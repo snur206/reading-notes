@@ -83,7 +83,7 @@ All the styles in a page will "cascade" into a new "virtual" style sheet by the 
 -Browser default
   
 **CSS Syntax**
- color: color|initial|inherit;
+ color: color initial inherit
   
  **Property Values**
 Color: Specifies the text color. Look at CSS Color Values for a complete list of possible color values.
