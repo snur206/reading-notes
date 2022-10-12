@@ -10,12 +10,12 @@ Teams I root for:
 - Seattle Seahawks
 
 Artist that I listen to mainly:
-- J Cole
+- JCole
 - Silk Sonic
 - Michael Jackson
 - Rod Wave
 
-What ***growth mindset*** means to me is that with effort and your passion, you will be able to learn and gain/develop new skills. 
+What ***growth mindset*** means to me is that with effort and your passion, you will be able to learn and gain/develop new skills.
 
 Three reminders keep myself in a growth mindset:
 
@@ -24,3 +24,8 @@ Three reminders keep myself in a growth mindset:
 3. Ask yourself questions about you. What did you do today? Were you productive or did you procrastinate? So that you can improve internally.
 
 [My github protfolio](https://github.com/snur206/)
+
+## Table of Contents
+
+[102 Class 1 Note](102/class1notes.md)
+[102 Class 2 Notes](102/class2notes.md)
