@@ -4,10 +4,15 @@
 ***Control Flow***
 
 Is the order in which the computer executes statements in a script.
+
 Code is run in order from the first line in the file to the last line, unless the computer runs across the structures (extremely frequent) that change the control flow, like conditionals and loops.
+
 Script submits validated data and the user leaves a required field empty, script will prompt you to fill it in.
+
 Script will use a conditional structure or if...else, so that different code executes depending on whether the form is complete or not.
+
 Typicaal script in JS include many control structures, includung conditionals, loops and functions. Part(s) of a script may also be set to execute when events occur.
+
 Control flow means that when you read a script, you must not only read from start to finish but also look at program structure and how it affects order of execution.
 
 **JS Functions**
@@ -34,11 +39,11 @@ Inside the function the arguments (the parameters) behave as local variables.
 
 The code inside the function will execute when "something" *invokes* (calls) the function:
 
-1. When an event occurs (when a user clicks a button)
-2. 
-3. When it is invoked (called) from JavaScript code
-4. 
-5. Automatically (self invoked)
+- When an event occurs (when a user clicks a button)
+
+- When it is invoked (called) from JavaScript code
+
+- Automatically (self invoked)
 
 **Function Return**
 
