@@ -59,5 +59,133 @@ Can reuse code, define the code once and can use it more
 
 Can use the same code many times with different aruments to produce different results.
 
+**() Operator Invokes the Function**
 
+Accessing a function without () will return the function object instead of the function result.
+
+**Functions used as Variable Values**
+
+Functions can be used the same way as you use variables, in all types of formulas, assignments, and calculations.
+
+**Local Variables**
+
+Variables declared in a JS function become *LOCAL* to the function
+
+Local variables can only be accessed from within the function.
+
+LV is only recognized inside their functions, variables with the same name can be used in different functions.
+
+LV is created when a function starts, and deleted when the function is completed.
+
+**JS Operators**
+
+The *assignment* operator (=) assigns a value to a variable.
+
+the + operator adds numbers.
+
+the multiplications operator (*) multiplies numbers.
+
+**Tyoes of JS Operators**
+
+- Aritmetic Operators
+
+- Assignment Operators
+
+- Comparison Operators
+
+- Logical Operators
+
+- Conditional Operators
+
+- Type Operators
+
+**JS Arithmetic Operators**
+
+- Addition +
+
+- Subtraction -
+
+- Multiplication *
+
+- Exponentiation (ES2016) **
+
+- Division /
+
+- Modulus (Division Remainder) %
+
+- Increment ++
+
+- Decrement --
+
+**JS Assignment Operators**
+
+Assignment operators assign values to JavaScript variables.
+
+The addition assignment operator (+=) adds a value to a variable.
+
+**Adding JS Strings**
+
++ operator an also be used to add (concatenate) strings.
+
++= assignment operator can also be used to add (concatenate) strings.
+
+**Adding strings and numbers**
+
+Adding two numbers, will return the sum, but adding a number and a string will return a string:
+
+**JS COMPARISON OPERATORS**
+
+- ==	equal to
+
+- ===	equal value and equal type
+
+- !=	not equal
+
+- !==	not equal value or not equal type
+
+- >	greater than
+
+- <	less than
+
+- >=	greater than or equal to
+
+- <=	less than or equal to
+
+- ?	ternary operator
+
+**JS logical operators**
+
+- &&	logical and
+
+- ||	logical or
+
+- !	logical not
+
+**JS Type Operators**
+
+- typeof	Returns the type of a variable
+
+- instanceof	Returns true if an object is an instance of an object type
+
+**JS Bitwise Operators**
+
+Bit operators work on 32 bits numbers.
+
+Any numeric operand in the operation is converted into a 32 bit number. The result is converted back to a JavaScript number.
+
+Operator	Description	Example	Same as	Result	Decimal
+
+&	AND	5 & 1	0101 & 0001	0001	 1
+
+|	OR	5 | 1	0101 | 0001	0101	 5
+
+~	NOT	~ 5	 ~0101	1010	 10
+
+^	XOR	5 ^ 1	0101 ^ 0001	0100	 4
+
+<<	left shift	5 << 1	0101 << 1	1010	 10
+
+>>	right shift	5 >> 1	0101 >> 1	0010	  2
+
+>>>	unsigned right shift	5 >>> 1	0101 >>> 1	0010	  2
 
