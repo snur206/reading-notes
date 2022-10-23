@@ -57,8 +57,10 @@ The benefits of using semantic tag in HTML:
   
 **What is Javascript**
   
-The two things that require JS in the browser are Application Programming Interfaces (API). A browser API and Third party APIs.
+The two things that require JS in the browser are a browser API that is built into your web browser and is able to expose data from the "surrounding computer environment, or do useful complex things." and Third party APIs "are not built into the browser by default, and you generally have to grab their code and information from somewhere on the Web."
   
 You add JS to an HTML document you use the <script> element.  
   
-Semantics - MDN web docs glossary: definitions of web-related terms: MDN. MDN Web Docs Glossary: Definitions of Web-related terms | MDN. (n.d.). Retrieved October 23, 2022, from https://developer.mozilla.org/en-US/docs/Glossary/Semantics   
+Semantics - MDN web docs glossary: definitions of web-related terms: MDN. MDN Web Docs Glossary: Definitions of Web-related terms | MDN. (n.d.). Retrieved October 23, 2022, from https://developer.mozilla.org/en-US/docs/Glossary/Semantics  
+  
+What is javascript? - learn web development: MDN. Learn web development | MDN. (n.d.). Retrieved October 23, 2022, from https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript
