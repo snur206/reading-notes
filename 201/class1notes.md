@@ -4,11 +4,11 @@ This topic matters because as I go on my journey to understand the different lan
 
 ## Things I want to know more about
 
-I want to know more about how Metadata influences SEO and make your page more visable and higher on a search engine. What are screen readers and how are they used?
+ What are screen readers and how are they used? Hours/homework same as format as 102? 
 
 **Getting Started** 
 
-Messages, computer to computer how do you get data sent? Browsers will send a request message to the server about a copy of the website to you so your head does not have a dent. That message, what a message, will go across interent connection by use of TCP-IP. You see. Once the server approves of your request, you will get a mulitple approval message as you go onto your quest. Website files get sent out in small chunks that gets turned into a whole webpage better known as data packets. This is the end, its getting cold here so I'm gonna put on a jacket.
+Messages, computer to computer how do you get data sent? Browsers will send a request message to the server about a copy of the website to you so your head does not have a dent. That message, what a message, will go across internet connection by use of TCP-IP. You see. Once the server approves of your request, you will get a mulitple approval message as you go onto your quest. Website files get sent out in small chunks that gets turned into a whole webpage better known as data packets. This is the end, its getting cold here so I'm gonna put on a jacket.
 
 HTML file is parsed first from the browser, where the <link> element is recogized. Referencing to external CSS stylesheets as well as <script>.
   
@@ -57,7 +57,7 @@ The benefits of using semantic tag in HTML:
   
 **What is Javascript**
   
-The two things that require JS in the browser is   
+The two things that require JS in the browser are Application Programming Interfaces (API). A browser API and Third party APIs.
   
 You add JS to an HTML document you use the <script> element.  
   
