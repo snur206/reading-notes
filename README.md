@@ -4,7 +4,7 @@
 
 My name is Sharmarke (he/him). I enjoy **sports**, mainly basketball, football and the UFC. I also enjoy listening to *rap and R&B.*
 
-Teams I root for:
+*Teams I root for*:
 
 - Miami Heat
 - Seattle Seahawks
