@@ -43,7 +43,7 @@ The most important question to answer when designing a website is what exactly d
   
 You use an <h1> over a <span> to display a top level heading because <h1> is a semantic element in HTML and <span> will make it look like a top level heading but it doesn't have no semantic value. 
   
-The benefits of using semantic tage in HTML:
+The benefits of using semantic tag in HTML:
   
 - Search engines will consider its contents as important keywords to influence the page's search rankings (Search Engine Optimization). 
   
