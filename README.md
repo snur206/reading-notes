@@ -1,6 +1,6 @@
 # reading-notes
 
-## Learning Notes Code 102
+## Learning Notes Code 
 
 My name is Sharmarke (he/him). I enjoy **sports**, mainly basketball, football and the UFC. I also enjoy listening to *rap and R&B.*
 
