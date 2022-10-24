@@ -1,4 +1,4 @@
-# [Class 1 Reading Notes](https://snur206.github.io/reading-notes/)
+# [Class 1 Reading Notes]([https://snur206.github.io/reading-notes/](https://github.com/snur206/reading-notes/blob/main/201/class1notes.md))
 
 This topic matters because as I go on my journey to understand the different languages it helps to go over the basics to study to fully grasp it.
 
@@ -8,7 +8,7 @@ This topic matters because as I go on my journey to understand the different lan
 
 **Getting Started** 
 
-Messages, computer to computer how do you get data sent? Browsers will send a request message to the server about a copy of the website to you so your head does not have a dent. That message, what a message, will go across internet connection by use of TCP-IP. You see. Once the server approves of your request, you will get a mulitple approval message as you go onto your quest. Website files get sent out in small chunks that gets turned into a whole webpage better known as data packets. This is the end, its getting cold here so I'm gonna put on a jacket.
+Messages, computer to computer how do you get data sent? Browsers will send a request message to the server about a copy of the website to you, HTTP finds the address so your head does not have a dent. That message, what a message, will go across internet connection by use of TCP-IP. You see. Once the server approves of your request, you will get a mulitple approval message as you go onto your quest. Website files get sent out in small chunks that gets turned into a whole webpage better known as data packets. This is the end, its getting cold here so I'm gonna put on a jacket.
 
 HTML file is parsed first from the browser, where the <link> element is recogized. Referencing to external CSS stylesheets as well as <script>.
   
