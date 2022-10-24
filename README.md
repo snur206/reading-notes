@@ -29,3 +29,6 @@ Three reminders keep myself in a growth mindset:
 
 [102 Class 1 Note](102/class1notes.md)
 [102 Class 2 Notes](102/class2notes.md)
+
+[Code 201](https://github.com/snur206/reading-notes/tree/main/201)
+[Class 1 Notes](https://github.com/snur206/reading-notes/blob/main/201/class1notes.md)
