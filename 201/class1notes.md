@@ -1,4 +1,4 @@
-# [Class 1 Reading Notes]https://snur206.github.io/reading-notes/](https://github.com/snur206/reading-notes/blob/main/201/class1notes.md)
+# [Class 1 Reading Notes](https://github.com/snur206/reading-notes/blob/main/201/class1notes.md)
 
 This topic matters because as I go on my journey to understand the different languages it helps to go over the basics to study to fully grasp it.
 
