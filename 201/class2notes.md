@@ -54,13 +54,10 @@ Three different types of comparison operators:
 
 - <= and >= — test if one value is less than or equal to, or greater than or equal to, another.
   
-The logical operator &&  
+The logical operator && alows you to chain together two or more expressions so that ***ALL*** of them have to individually evaluate to true for the whole expression to return true and || allows ***ONE OR MORE***  
   
+ ## Things I want to know more about
   
+The logical operators. Really more about Javascript and its operators.  
   
-  
-  
-  
-  
-  
-  
+“Making Decisions in Your Code - Conditionals - Learn Web Development: MDN.” Learn Web Development | MDN, https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals.  
