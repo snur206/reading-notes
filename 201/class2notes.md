@@ -42,7 +42,7 @@ Recycling is a real world problem you could solve with a Function because you ar
  
 *Making Decisions In Your Code - Conditionals*  
   
-An if statement checks a  and if it evaluates to ___, then the code block will execute.
+An if statement checks a condition and if it evaluates to true, then the code block will execute.
   
 Else if is used when you want to chain extra choices or outcomes to if...else.  
   
