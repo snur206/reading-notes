@@ -8,7 +8,7 @@ It is important to use semantic elements in our HTML because it will make the br
 
 In HTML, there six leveling of headings.
 
-The use for <sup> and <sub> elements is to mark up items so they have the correct meaning. i.e  dates and mathematical equations.
+The use for < sup > and < sub > elements is to mark up items so they have the correct meaning. i.e  dates and mathematical equations.
   
 The title attribute is used to provide full expansion of the term.
   
