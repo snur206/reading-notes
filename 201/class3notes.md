@@ -49,6 +49,7 @@ Expressions and operators - JavaScript | MDN. (2022, September 26). https://deve
 A real world example of when a conditional statement should be used in a JavaScript program is when humans are making decisions like "should I eat one cookie or two?". 
 
 function greetUser(){
+
     let usersName = prompt ("What is your name?");
     // if(usersName == ""){
     //   usersName = prompt ("What is your name again?");
