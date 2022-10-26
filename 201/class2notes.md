@@ -61,3 +61,5 @@ The logical operator && alows you to chain together two or more expressions so t
 The logical operators. Really more about Javascript and its operators.  
   
 “Making Decisions in Your Code - Conditionals - Learn Web Development: MDN.” Learn Web Development | MDN, https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals.  
+
+https://github.com/snur206/reading-notes/blob/main/201/class2notes.md
