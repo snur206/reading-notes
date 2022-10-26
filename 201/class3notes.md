@@ -24,7 +24,7 @@ Four parts of an HTML elements box are:
 
 The box model - learn web development: MDN (no date) Learn web development | MDN. Available at: https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model (Accessed: October 25, 2022). 
 
-## *JS**
+## **JS**
 
 The data types you store in an array are strings, numbers, and objects.
 
