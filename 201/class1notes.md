@@ -64,3 +64,6 @@ You add JS to an HTML document you use the <script> element.
 Semantics - MDN web docs glossary: definitions of web-related terms: MDN. MDN Web Docs Glossary: Definitions of Web-related terms | MDN. (n.d.). Retrieved October 23, 2022, from https://developer.mozilla.org/en-US/docs/Glossary/Semantics  
   
 What is javascript? - learn web development: MDN. Learn web development | MDN. (n.d.). Retrieved October 23, 2022, from https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript
+  
+https://github.com/snur206/reading-notes/blob/main/201/class1notes.md
+  
