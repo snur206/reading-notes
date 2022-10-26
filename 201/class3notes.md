@@ -8,9 +8,11 @@ You would use an *unordered list* in a HTML document when you want to group thin
 
 You use an *ordered list* in a HTML document when you want the order to be meaingful, unlike with an *unordered list*.
 
+A for uppercase letters and I for uppercase Roman numerals are two ways you can change the numbers on list items provided by an ordered list.
+
 ## **CSS**
 
-*Margin* is 
+*Margin* would be an IPhone box and the actual phone would be the *Padding* that you would get yourself.
 
 Four parts of an HTML elements box are:
 
@@ -44,7 +46,7 @@ Five shorthand operators:
 
 Expressions and operators - JavaScript | MDN. (2022, September 26). https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators
 
-
+It would be a = 10; let b = 'dog'; let c = false;
 
 A real world example of when a conditional statement should be used in a JavaScript program is when humans are making decisions like "should I eat one cookie or two?". 
 
@@ -54,8 +56,8 @@ function greetUser(){
     // if(usersName == ""){
     //   usersName = prompt ("What is your name again?");
     // }
-    // while (usersName == ""){
-    //    usersName = prompt("What was your name???")
+    while (usersName == ""){
+        usersName = prompt("What was your name???")
 
 
 ## Things I want to know more about
