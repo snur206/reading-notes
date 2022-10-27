@@ -22,7 +22,7 @@ Creating hyperlinks - learn web development: MDN (no date) Learn web development
 
 Normal flow is the way that webpage elements lay themselves out if you haven't changed their layout.
 
-Differences between block-level and inline elements is that block-level elememt appears on a new line and inline elements never appear on new lines.  
+Differences between block-level and inline elements is that block-level elememt appears on a new line and inline elements never appear on new lines. Block-level elements are laid out vertically and in inline elements the overflowing content will move down to a new line if there is no space. 
 
 Static positioning is the default for every html element.
 
@@ -30,7 +30,7 @@ A few advantages to using absolute positioning on an element:
 
 - It sits on its own layer separate from everything else and no longer exists in the normal document flow.
 
-- 
+-  Top, bottom, left, and right all behave in a different way with absolute positioning. 
 
 The key difference between fixed positioning and absolute positioning is that "absolute positioning fixes an element in place relative to its nearest positioned ancestor (the initial containing block if there isn't one), fixed positioning usually fixes an element in place relative to the visible portion of the viewport"
 
@@ -38,26 +38,20 @@ Positioning - learn web development: MDN (no date) Learn web development | MDN. 
 
 ## JS
 
+The difference between a function declaration and a function invocation is the declaration are not executed immediately and are saved for later use, and will be executed later, when they are invoked or called upon.
 
+The difference between parameter and an argument is that parameters are a variable that is apart of a method's structure and an argument is an expression/value that is passed into the method.
 
+## Miscellaneous
 
+Great efficiency is a pair programming benefit that can help my coding journey because it is easier to catch mistakes when you are coding with someone else. It might take longer but it is way more efficient and produces higher quality code. 
 
-
-
-
-
-
-
-
-
-
-
-
-
+Engaged collaboration is a pair programming benefit that can help my coding journey because your experience when working with a pair is more engaging cause me and my pair to be more focused as oppose to working on it by myself. It can cause you to work harder and not procastinate or lay things off because you have someone else that is relying on you to finish the job.
 
 
 ## Things I want to know more about
 
+Would like to know more about fixed positioning and absolute positioning. 
 
 
 https://github.com/snur206/reading-notes/blob/main/201/class4notes.md
