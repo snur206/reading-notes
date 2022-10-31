@@ -10,17 +10,7 @@ Some advantages to creating object literals is that you can transfer a series of
 
 Objects differ to arrays because you are using names that are associated with the members value instead of (index) numbers.
 
-var myObj = {
-
-    "State Name"; "Washington",
-    
-    "My City": "Seattle"
-    
-  };
-  
-myObj["State Name"]; Washington
-
-   myObj['My City']; Seattle
+You use bracket notation to access an object’s property instead of instead of dot notation because when a object property name is held in a variable,  you cannot use dot notation to access the value, but you can when you are using bracket notation.
 
 ***this*** is refering to the current object the code is being written inside. The advantage is that when creating more than one of it, *this* enables you to use the same definiton for all object that you created.
 
@@ -30,12 +20,12 @@ JavaScript object basics - learn web development: MDN (no date) Learn web develo
 
 DOM is a programming interface for web documents where the program can change the structure, style, and content of the document.
 
-The relationship between the DOM and JS is that without DOM (not a programming language) JS wouldn't have any model or notion of webpages and the documetns el
+The relationship between the DOM and JS is that without DOM (not a programming language) JS wouldn't have any model or notion of webpages and DOM is what allows JS to interact with the HTML
 
 
 ## Things I want to know more about
 
-Writing bracket notations.
+Writing bracket notations and DOM.
 
 
 https://github.com/snur206/reading-notes/blob/main/201/class6notes.md
