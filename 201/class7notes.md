@@ -13,11 +13,11 @@ Tables should not be used for layouts because it reduces accessibility for users
 
 Three different semantic HTML elements used in an HTML <table:
   
-  - < th : Table header denotes a header. Easier to find data when a header stands out and the design would look better. It defines a cell as header of a group of table cells.
+  - < th > : Table header denotes a header. Easier to find data when a header stands out and the design would look better. It defines a cell as header of a group of table cells.
   
-  - < tr : defines a row of cells in a table
+  - < tr > : defines a row of cells in a table
   
-  - <t head : defines a set of rows defining the head of the columns of the table.
+  - < thead > : defines a set of rows defining the head of the columns of the table.
   
 HTML table basics - learn web development: MDN (no date) Learn web development | MDN. Available at: https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics (Accessed: October 31, 2022). 
 
