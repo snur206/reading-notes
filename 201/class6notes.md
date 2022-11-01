@@ -1,6 +1,6 @@
 # [Class 6 Reading Notes](https://github.com/snur206/reading-notes/blob/main/201/class6notes.md)
 
-This topic matters because
+This topic matters because we are learning what DOM is and it's relations to JS & HTML and objects and what that is which is new things for us to learn.
 
 ## JavaScript Object Basics
 
