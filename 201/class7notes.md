@@ -25,7 +25,7 @@ HTML table basics - learn web development: MDN (no date) Learn web development |
 
 Constructor is a function that is called using the new keyword. Some advantages is that it binds this. to the new object where refer to this in your constructor code and it automatically initializes the object(s) when they are declared.
 
-The term this differ when used in an object literal versus when used in a constructor because in a object literal this. is only refering to a call from this. object and in a constructor this. is refering to a call from another constructor.
+The term this differ when used in an object literal versus when used in a constructor because in a object literal this. is only refering to a call from this. object and in a constructor this. is referring to a call from another constructor.
 
 ## Object Prototypes Using A Constructor
 
