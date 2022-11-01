@@ -35,5 +35,6 @@ Inheritance: Worked at my Dads mini market before and for example it can be a fa
 
 ## Things I want to know more about
 
+Table basics/element and constructors
 
 https://github.com/snur206/reading-notes/blob/main/201/class7notes.md 
