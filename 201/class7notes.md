@@ -23,16 +23,15 @@ HTML table basics - learn web development: MDN (no date) Learn web development |
 
 ## Introducing Constructors
 
+Constructor is a function that is called using the new keyword. Some advantages is that it binds this. to the new object where refer to this in your constructor code and it automatically initializes the object(s) when they are declared.
 
-
-
+The term this differ when used in an object literal versus when used in a constructor because 
 
 ## Object Prototypes Using A Constructor
 
+Prototypes:
 
-
-
-
+Inheritance: Worked at my Dads mini market and for example it can be a fall back optionwhen he is retired and I take over it as the owner.
 
 ## Things I want to know more about
 
