@@ -31,7 +31,7 @@ The term this differ when used in an object literal versus when used in a constr
 
 Prototypes:
 
-Inheritance: Worked at my Dads mini market and for example it can be a fall back optionwhen he is retired and I take over it as the owner.
+Inheritance: Worked at my Dads mini market before and for example it can be a fall back optionwhen he is retired and I take over it as the owner.
 
 ## Things I want to know more about
 
