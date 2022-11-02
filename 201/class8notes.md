@@ -14,9 +14,9 @@ Certain properties of flex box negatively impact accessibility because you do no
 
 Advantages to using flex-box over float:
 
-Change the order of elements on our webpage w/o changing anything in HTML
+- Change the order of elements on our webpage w/o changing anything in HTML
 
-More responsive and mobile friendly.
+- More responsive and mobile friendly.
 
 This topic connects with my long term goals because I want to be a software developer and learning and reading up on these gives me items and tools to learn so I can be as good as possible.
 
