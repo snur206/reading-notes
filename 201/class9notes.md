@@ -2,13 +2,11 @@
 
 This topic matters because these are new methods and elements in HTML and JS that I am learning.
 
-
-
 ## HTML Forms
 
 Forms matter in web development because they are used to collect data from users or allowing them to control the user interface. 
 
-Some key things to keep in mind when it comes to user experience is that the bigger that your form is, you are running the risk if frustrating people and losing users. Just keep things simple, stay focused, and ask only for the data you absolutely ne
+Some key things to keep in mind when it comes to user experience is that the bigger that your form is, you are running the risk if frustrating people and losing users. Just keep things simple, stay focused, and ask only for the data you absolutely need.
 
 5 form elements:
 
@@ -26,18 +24,20 @@ Web forms - working with user data - learn web development: MDN (no date) Learn 
 
 ## Learn JS
 
+Events are reactions from your code coming from actions that happen in the system that you are is programming. "the user clicks a button on a webpage, you might want to react to that action by displaying an information box."
 
 
+2 arguments will you need to provide when using addEventListener():
+  
+- Name of the event
+
+- A function to handle the event
+  
+  
 
 
-
-
-
-
-
-
-
-
+Introduction to events - learn web development: MDN (no date) Learn web development | MDN. Available at: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events#using_addeventlistener (Accessed: November 2, 2022).   
+  
 ## Things I want to know more about
 
 
