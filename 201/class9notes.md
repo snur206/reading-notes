@@ -18,9 +18,9 @@ Some key things to keep in mind when it comes to user experience is that the big
 
 - < label >: Represents a caption for a item in a user interface. Most important to build accessible forms.
 
-- < input >: 
+- < input >: Creates interactive controls for web based forms to accept data from the user.
 
-- //<button>: Interactive element for the user by mouse, keyboard, finger, or voice command. 
+- < button >: Interactive element for the user by mouse, keyboard, finger, or voice command. 
 
 Web forms - working with user data - learn web development: MDN (no date) Learn web development | MDN. Available at: https://developer.mozilla.org/en-US/docs/Learn/Forms#:~:text=Web%20forms%20are%20a%20very,to%20control%20a%20user%20interface. (Accessed: November 2, 2022). 
 
