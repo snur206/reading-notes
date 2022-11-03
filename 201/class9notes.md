@@ -33,7 +33,7 @@ Events are reactions from your code coming from actions that happen in the syste
 
 - A function to handle the event
   
-  
+Event Objects are passed automatically to the event handlers and provides extra features and info. Target property within the event object useful because it references to the element the event occurred upon everytime.
 
 
 Introduction to events - learn web development: MDN (no date) Learn web development | MDN. Available at: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events#using_addeventlistener (Accessed: November 2, 2022).   
