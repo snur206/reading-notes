@@ -34,13 +34,13 @@ Events are reactions from your code coming from actions that happen in the syste
 - A function to handle the event
   
 Event Objects are passed automatically to the event handlers and provides extra features and info. Target property within the event object useful because it references to the element the event occurred upon everytime.
-
-
+  
+The difference between event bubbling and event capturing is that event bubbling, the browser checks if the *elements outer-most ancestor(HTML)* for a click event and event capturing th browser checks if the *direct parent*.
+  
 Introduction to events - learn web development: MDN (no date) Learn web development | MDN. Available at: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events#using_addeventlistener (Accessed: November 2, 2022).   
   
 ## Things I want to know more about
 
-
-
+I want to know more about form elements and event objects.
 
 https://github.com/snur206/reading-notes/blob/main/201/class9notes.md
