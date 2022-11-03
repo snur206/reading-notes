@@ -12,15 +12,15 @@ Some key things to keep in mind when it comes to user experience is that the big
 
 5 form elements:
 
--  <fieldset>: A way to create groups of widgets that share the same purpose, for styling and semantic reasons/purpose.
+-  < fieldset >: A way to create groups of widgets that share the same purpose, for styling and semantic reasons/purpose.
 
-- <legend>: A caption for its content parent <fieldset>
+- < legend >: A caption for its content parent <fieldset>
 
-- <label>: Represents a caption for a item in a user interface. Most important to build accessible forms.
+- < label >: Represents a caption for a item in a user interface. Most important to build accessible forms.
 
-- <input>: 
+- < input >: 
 
-- <button>: Interactive element for the user by mouse, keyboard, finger, or voice command. 
+- //<button>: Interactive element for the user by mouse, keyboard, finger, or voice command. 
 
 Web forms - working with user data - learn web development: MDN (no date) Learn web development | MDN. Available at: https://developer.mozilla.org/en-US/docs/Learn/Forms#:~:text=Web%20forms%20are%20a%20very,to%20control%20a%20user%20interface. (Accessed: November 2, 2022). 
 
