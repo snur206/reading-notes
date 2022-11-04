@@ -20,6 +20,6 @@ Call stack shows you what code was executed to get to the current line.
 
  ## Things I want to know more about
  
- Syntax and logic errosa
+ Syntax and logic errors
  
 https://github.com/snur206/reading-notes/blob/main/201/class10notes.md
