@@ -12,18 +12,14 @@ This topic influences my long term goal to be a developer is that errors happen 
 
 ## The JavaScript Debugger
 
-JavaScript Debugger is 
+JavaScript Debugger is where you watch the value of variables and set breakpoints, it works by identifying the problems that is preventing your code from working/executing like it should.
 
+Breakpoint is where  you want to pause execution.
 
-
-
-
-
-
+Call stack shows you what code was executed to get to the current line.
 
  ## Things I want to know more about
  
  Syntax and logic errosa
- 
  
 https://github.com/snur206/reading-notes/blob/main/201/class10notes.md
