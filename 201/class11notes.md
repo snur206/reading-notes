@@ -46,5 +46,6 @@ Video and audio content - learn web development: MDN (no date) Learn web develop
 
 ## Things I want to know more about
 
-
+Audio and video elements in a src attribute.
+  
 https://github.com/snur206/reading-notes/blob/main/201/class11notes.md
