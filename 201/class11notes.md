@@ -11,7 +11,11 @@ The use of src attribute in the element video is that it contains a path to the 
 
 The use of control attribute in the element video is that include the browser's own control interface, or build your interface using the appropriate JavaScript API. 
 
+It is important to have fallback content inside the video element because it allows us to provide a fallback for older browsers.
 
+A video is needed to made and uploaded to the internet. Video and Audio feels like they are the most important elements because of how much they are needed. They feel like that because they are used to add media to a webpage.
+  
+Video and audio content - learn web development: MDN (no date) Learn web development | MDN. Available at: https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content (Accessed: November 5, 2022).   
 
 ## A Complete Guide To Grid
 
