@@ -31,7 +31,7 @@ Grid:
 
 ## Responsive Images
 
-
+Developers should make images responsive because 
 
 
 
