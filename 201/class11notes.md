@@ -23,11 +23,11 @@ Grid layout differs from Flex because grid is a two-dimensional grid-based layou
 
 Grid:
 
-- Grid container: 
+- Grid container: Contains grid items, placed inside columns and rows. Have to set the display property to grid or inline-grid to utilize it.
+  
+- Grid item: The child of grid container. Grid items stay within the CSS Grid container that is known as grid items.
 
-- Grid item:
-
-- Grid line:
+- Grid line: It divides lines that make up the structure of the grid. Can work either vertically or horizontally. It also resides on either side of a row or column.
 
 ## Responsive Images
 
@@ -44,6 +44,6 @@ Grid:
 
 ## Things I want to know more about
 
-Audio and video elements in a src attribute.
+Audio and video elements in a src attribute as well as grid terms.
   
 https://github.com/snur206/reading-notes/blob/main/201/class11notes.md
