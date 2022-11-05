@@ -19,17 +19,15 @@ Video and audio content - learn web development: MDN (no date) Learn web develop
 
 ## A Complete Guide To Grid
 
+Grid layout differs from Flex because grid is a two-dimensional grid-based layout system and flex is a one-dimensional grid-based layout system. 
 
+Grid:
 
+- Grid container: 
 
+- Grid item:
 
-
-
-
-
-
-
-
+- Grid line:
 
 ## Responsive Images
 
