@@ -31,15 +31,15 @@ Grid:
 
 ## Responsive Images
 
-Developers should make images responsive because 
+Developers should make images responsive because  it is letting you offer the browser several image files, either all showing the same thing but containing different numbers of pixels (resolution switching), or different images suitable for different space allocations (art direction).
 
+- img attributes: embeds an image into the document. You are insert an image to a webpagge/document.
 
+- srcset: One or more strings that are separated by commas. You are able to specify a list of images  
 
+- sizes: One or more strings separarted by commas, indicating a set of source sizes.
 
-
-
-
-
+srcset is more helpful for responsive images than CSS or JS because 
 
 
 ## Things I want to know more about
