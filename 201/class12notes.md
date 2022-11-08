@@ -26,13 +26,10 @@ Three different Chart types you can create using Chart.js:
 
 ## Easily Create Stunning Animated Charts with Chart.js
 
+Some advantages to displaying data via a chart over a table because it is better visually and convey data quickly.
 
 
-
-
-
-
-
+Chart.js aid your previously created applications visually
 
 
 ## Things I want to know more about
