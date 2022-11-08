@@ -29,7 +29,7 @@ Three different Chart types you can create using Chart.js:
 Some advantages to displaying data via a chart over a table because it is better visually and convey data quickly.
 
 
-Chart.js aid your previously created applications visually
+Chart.js can aid my previously created applications visually by writing it HTML and in my taste, write it in JS to draw charts/graphs.
 
 
 ## Things I want to know more about
