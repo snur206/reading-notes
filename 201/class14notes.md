@@ -13,7 +13,7 @@ I would use the 2d scale and change the size of my chart using the element scale
 
 CSS transition allows the developer to change the appearance and behavior of an element when a state change occurs, like hover over. 
 
-CSS animation differs from a CSS transition because transitions are building visual interactions from one state to another and animations are when you want more control to have mulitple states. 
+CSS animation differs from a CSS transition because transitions are building visual interactions from one state to another and animations are when you want more control to have multiple states. 
 
 ## 8 simple CSS3 transitions that will wow your users
 
