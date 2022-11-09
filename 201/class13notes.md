@@ -6,13 +6,9 @@ This topic matters because the reading topic is new anything we have read diving
 
 A developer use local storage for a web application because it is stateless and you can keep a key in the user’s computer and it will read it out when the user returns.
 
-WHATWG and W3C should not be stored in local storage.
+Sensitive info like passwords should not be stored in local storage.
 
-Local storage can store strings data in different keys, You can convert them to the data before storing them by using ajax().
-
-
-
-
+Local storage can store strings data in different keys, You can convert them to the data before storing them by using JSON.stringify() and JSON.parse()
 
 
 
