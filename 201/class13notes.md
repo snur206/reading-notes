@@ -8,7 +8,7 @@ A developer use local storage for a web application because it is stateless and 
 
 WHATWG and W3C should not be stored in local storage.
 
-Local storage can store strings data 
+Local storage can store strings data in different keys, You can convert them to the data before storing them by using ajax().
 
 
 
