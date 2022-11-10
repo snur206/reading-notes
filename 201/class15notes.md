@@ -1,4 +1,4 @@
-# [Class 14 Psychological Safety](https://github.com/snur206/reading-notes/blob/main/201/class14notes.md)
+# [Class 14 Psychological Safety](https://github.com/snur206/reading-notes/blob/main/201/class15notes.md)
 
 This topic matters because the topic reading is about the real life experience of how people interact in group settings. 
 
@@ -6,4 +6,4 @@ Julia Rozovsky did not know what to do with her life. She was once working at a 
 
 After reading this article, I believe that I am in the group of people where I excel in working in a group enviroment. An example of that is working in a group final when attending the University of Washington where we had a subject on students overcoming adversity due to your race and/or religious belief. We had to interview fellow students and present our project. While doing that, I believe that I worked much better in a team then working on projects alone, even though I have trust in myself.
 
-https://github.com/snur206/reading-notes/blob/main/201/class14notes.md
+https://github.com/snur206/reading-notes/blob/main/201/class15notes.md
