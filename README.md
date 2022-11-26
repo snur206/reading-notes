@@ -31,6 +31,6 @@ Three reminders keep myself in a growth mindset:
 
 ## [Code 201 - Foundations of Software Development](https://github.com/snur206/reading-notes/tree/main/201)
 
-## [Code 301 - Intermediate Software Development]()
+## [Code 301 - Intermediate Software Development](https://github.com/snur206/reading-notes/tree/main/301)
 
 ## [Code 401 - Advanced Software Development]()
