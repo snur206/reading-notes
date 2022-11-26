@@ -25,10 +25,12 @@ Three reminders keep myself in a growth mindset:
 
 [My github protfolio](https://github.com/snur206/)
 
-## Table of Contents
+# Reading Notes
 
-- [102 Class 1 Note](102/class1notes.md)
-- [102 Class 2 Notes](102/class2notes.md)
+## [Code 102 - Intro to Software Development](https://github.com/snur206/reading-notes/tree/main/102)
 
-- [Code 201](https://github.com/snur206/reading-notes/tree/main/201)
-- [Class 1 Notes](https://github.com/snur206/reading-notes/blob/main/201/class1notes.md)
+## [Code 201 - Foundations of Software Development](https://github.com/snur206/reading-notes/tree/main/201)
+
+## [Code 301 - Intermediate Software Development]()
+
+## [Code 401 - Advanced Software Development]()
