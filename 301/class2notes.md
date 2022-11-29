@@ -8,7 +8,7 @@ Based on the diagram, Render happens first then componentDidMount.
 
 Mounting is the first thing to happen in the lifecycle.
 
-1st: constructor 2nd: render 3rd: componentDidMount() 4th: react update 5th: componentWillUnmount
+1st: constructor 2nd: componentWillUnmount 3rd: render 4th: componentWillUnmount  5th: React Updates
 
 componentDidUnmount happens when the page is loading
 
