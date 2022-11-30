@@ -29,21 +29,30 @@ List 4 things that the spread operator can do:
 
 Give an example of using the spread operator to combine two arrays:
 
+```
 const myArray = [`🤪`,`🐻`,`🎌`]
 const yourArray = [`🙂`,`🤗`,`🤩`]
 const ourArray = [...myArray,...yourArray]
 console.log(...ourArray) // 🤪 🐻 🎌 🙂 🤗 🤩
+```
 
 Give an example of using the spread operator to add a new item to an array:
-
+```
 const fewFruit = ['🍏','🍊','🍌']
 const fewMoreFruit = ['🍉', '🍍', ...fewFruit]
 console.log(fewMoreFruit) //  Array(5) [ "🍉", "🍍", "🍏", "🍊", "🍌" ]
-
+```
 Give an example of using the spread operator to combine two objects into one:
+```
+[...["😋😛😜🤪😝"]] // Array [ "😋😛😜🤪😝" ]
+[..."🙂🙃😉😊😇🥰😍🤩!"] // Array(9) [ "🙂", "🙃", "😉", "😊", "😇", "🥰", "😍", "🤩", "!" ]
 
+const hello = {hello: "😋😛😜🤪😝"}
+const world = {world: "🙂🙃😉😊😇🥰😍🤩!"}
 
-
+const helloWorld = {...hello,...world}
+console.log(helloWorld) // Object { hello: "😋😛😜🤪😝", world: "🙂🙃😉😊😇🥰😍🤩!" }
+```
 ## How to Pass Functions Between Components
 
 
