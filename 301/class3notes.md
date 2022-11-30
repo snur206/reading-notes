@@ -55,9 +55,13 @@ console.log(helloWorld) // Object { hello: "😋😛😜🤪😝", world: "🙂�
 ```
 ## How to Pass Functions Between Components
 
+The first step a developer does to pass functions between components is to create a  function (increment).
 
+Increment function adds a count everytime the button is clicked.
 
+You pass a method from a parent component into a child component by using props.
 
+The child component invokes a method that was passed to it from a parent component by using this.props.name.
 
 ## Things I want to know more about
 
