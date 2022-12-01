@@ -16,7 +16,7 @@ Using this.state.value
 
 ## The Conditional (Ternary) Operator Explained
 
-You would use a ternary operator because you can write the same exact code but written in one line of code.
+You would use a ternary operator to shorten if statement code into one line of code.
 
 Rewrite this code using a ternary statement:
 ```
