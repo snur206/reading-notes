@@ -4,13 +4,15 @@ This topic matters because it dives into forms and a new way of writing code usi
 
 ## React Docs - Forms
 
+Controlled Component is a user input that is controlled by React.
 
+**Should we wait to store the users responses from the form into state when they submit the form OR should we update the state with their responses as soon as they enter them? Why?**
 
+Update the state with their responses as soon as they enter them to get a return.
 
+**How do we target what the user is entering if we have an event handler on an input field?**
 
-
-
-
+Using this.state.value
 
 ## The Conditional (Ternary) Operator Explained
 
@@ -24,7 +26,7 @@ if(x===y){
   console.log(false);
 }
 ```
-x===y ? console.log(true) : value if false
+x===y ? console.log(true) : console.log(false)
 
 
 ## Things I want to know more about
