@@ -8,11 +8,11 @@ Controlled Component is a user input that is controlled by React.
 
 **Should we wait to store the users responses from the form into state when they submit the form OR should we update the state with their responses as soon as they enter them? Why?**
 
-Update the state with their responses as soon as they enter them to get a return.
+Wait to store the users responses from the form into state when they submit the form only updating them in setState().
 
 **How do we target what the user is entering if we have an event handler on an input field?**
 
-Using this.state.value
+Using this.state.value, getting the input fields value and update the state variable.
 
 ## The Conditional (Ternary) Operator Explained
 
