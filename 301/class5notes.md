@@ -4,12 +4,19 @@ This topic matters because the reading continues discussing about React and a ne
 
 ## React Docs - Thinking in React
 
-Single responsibility principle 
+Single responsibility principle is a component doing one thing.
 
+Building a ‘static’ version of your application you are building a version that takes your data model and renders the UI but has no interactivity.
 
+Once you have a static application, you need to Identify The Minimal (but complete) Representation Of UI State.
 
+Three questions you can ask to determine if something is state:
 
+- 
 
+-
+
+-
 
 ## Higher-Order Functions
 
