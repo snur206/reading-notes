@@ -24,11 +24,11 @@ You identify where state needs to live by identifying every component that rende
 
 Higer-Order functions are functions that operate on other functions, either by taking them as arguments or by returning them.
 
+if m is greater than n, it is true.
 
+map: transforms an array by applying a function to all of its elements, creating a new array from the returned values. 
 
-
-
-
+reduce: builds value by taking a single element from the array and combining it with the current value.
 
 ## Things I want to know more about
 
