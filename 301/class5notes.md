@@ -12,11 +12,13 @@ Once you have a static application, you need to Identify The Minimal (but comple
 
 Three questions you can ask to determine if something is state:
 
-- 
+- Is it passed in from a parent via props? If so, it probably isn’t state.
 
--
+- Does it remain unchanged over time? If so, it probably isn’t state.
 
--
+- Can you compute it based on any other state or props in your component? If so, it isn’t state.
+
+You identify where state needs to live by identifying every component that renders something besed on that state, find a common owner component, the common component should own the state.
 
 ## Higher-Order Functions
 
