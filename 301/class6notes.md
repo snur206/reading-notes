@@ -35,9 +35,9 @@ The version of npm are you running on my laptop is
 
 - Work environment readiness
 
+In my experience, learning from fellow students is what I found most beneficial, learning different techniques and ideas.
 
-
-
+Pair programming works by having two roles, the driver and the navigator. The Driver is the programmer who is typing and the only one whose is writing the code. The Navigator uses their words to help guide the driver but does not do any of the typing of the code. They also scan typos and bugs.
 
 ## Things I want to know more about
 
