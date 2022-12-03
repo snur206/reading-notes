@@ -8,13 +8,13 @@ Node.js is a JavaScript runtime built on Chrome’s V8 JavaScript engine. Stack 
 
 Chrome’s V8 JavaScript Engine is as open source javascript engine that runs on multiple chromium-based web browsers (Google Chrome) that is responisble for putting together  JavaScript directly to local machine code that your computer can execute.
 
-Node is a JavaScript runtime means Node.js can execute Javascript
+Node is a JavaScript runtime means Node.js can execute Javascript.
 
+NPM is a package manager that comes bundled with Node.
 
+The version of node are you running on my laptop is 
 
-
-
-
+The version of npm are you running on my laptop is
 
 
 
@@ -23,17 +23,20 @@ Node is a JavaScript runtime means Node.js can execute Javascript
 
 6 reasons for pair programming:
 
--
+- Greater efficiency
 
--
+- Engaged collaboration
 
--
+- Learning from fellow students
 
--
+- Social skills
 
--
+- Job interview readiness
 
--
+- Work environment readiness
+
+
+
 
 
 ## Things I want to know more about
