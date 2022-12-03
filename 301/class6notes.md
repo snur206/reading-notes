@@ -12,9 +12,9 @@ Node is a JavaScript runtime means Node.js can execute Javascript.
 
 NPM is a package manager that comes bundled with Node.
 
-The version of node are you running on my laptop is 
+The version of node are you running on my laptop is v18.10.0. 
 
-The version of npm are you running on my laptop is
+The version of npm are you running on my laptop is 8.19.2.
 
 
 
