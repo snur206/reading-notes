@@ -16,8 +16,9 @@ The version of node are you running on my laptop is v18.10.0.
 
 The version of npm are you running on my laptop is 8.19.2.
 
+npm install -g jshint is the command would you type to install a library/package called ‘jshint’.
 
-
+Node used for us to run Javascript on the server.
 
 ## 6 Reasons for Pair Programming
 
