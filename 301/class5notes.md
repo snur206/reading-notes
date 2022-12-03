@@ -1,4 +1,4 @@
-# [Class 5 Reading Notes](https://github.com/snur206/reading-notes/blob/main/301/class4notes.md)
+# [Class 5 Reading Notes](https://github.com/snur206/reading-notes/blob/main/301/class5notes.md)
 
 This topic matters because the reading continues discussing about React and a new function called Higher-Order Functions.
 
