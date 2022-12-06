@@ -22,11 +22,11 @@ PATCH is used to do partial update.
 
 ## Geocoding API
 
-
+Yes
 
 ## Weather Bit API
 
-
+Yes
 
 ## Yelp API Docs
 
