@@ -30,11 +30,11 @@ Yes
 
 ## Yelp API Docs
 
-
+Yes
 
 ## The Movie DB API Docs
 
-
+Yes
 
 ## Things I want to know more about
 
