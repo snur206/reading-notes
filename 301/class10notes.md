@@ -12,7 +12,6 @@ LIFO means Last In, First Out.
 
 An example of a call stack and function needed to be invoked to generate a call stack:
 
-``
 function firstFunction(){
   console.log("Hello from firstFunction");
 }
@@ -22,7 +21,6 @@ function secondFunction(){
 }
 
 secondFunction();
-``
 
 A stack overflow is caused when a function that calls itself) without an exit point. The browser (hosting environment) has a maximum stack call that it can accomodate before throwing a stack error.
 
