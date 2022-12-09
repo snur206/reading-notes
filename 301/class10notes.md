@@ -34,14 +34,12 @@ A syntax error is when you have something that cannot be parsed in terms of synt
 
 A range error is when you try to manipulate an object with some kind of length and give it an invalid length and this kind of errors will show up.
 
+A type error is the types (number, string and so on) you are trying to use or access are incompatible, like accessing a property in an undefined type of variable.
 
+A breakpoint is used for places where code execution can be stopped
 
-
-
-
-
-
+The word ‘debugger’ is for the line of code you want to break or stops the execution of JavaScript, and calls (if available) the debugging function.
 
 #### Things I want to know more about
 
-A
+Call stacks and understand erros more so I can further my development in coding.
