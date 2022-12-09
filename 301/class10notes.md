@@ -40,4 +40,4 @@ The word ‘debugger’ is for the line of code you want to break or stops the e
 
 #### Things I want to know more about
 
-Call stacks and understand erros more so I can further my development in coding.
+Call stacks and understand errors more so I can further my development in coding.
