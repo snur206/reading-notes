@@ -36,13 +36,13 @@ A relational database means that a database works with certain assumptions or su
 
 The type of structure does a relational database work with are tables with rows and columns.
 
-A ‘schema’ 
+A ‘schema’ is how data is organized in a relational database.
 
-NoSQL database is
+NoSQL database has no schema and does not tables but collections.
 
-NoSQL works
+NoSQL works by having multiple documents in one colection that  have different fields. No schema applied.
 
- is inside of a MongoDB database
+Collection and document is inside of a MongoDB database.
 
 MongoDB is more flexible than SQL because 
 
