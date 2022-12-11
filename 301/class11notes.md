@@ -30,13 +30,13 @@ SQL database is best for scalability.
 
 ## sql vs nosql (Video)
 
-SQL stands for
+SQL stands for Structured Query Language.
 
-A relational database is
+A relational database means that a database works with certain assumptions or supports SQL language. This database is used with multiple tables that can be combined in queries.
 
-type of structure does a relational database work with
+The type of structure does a relational database work with are tables with rows and columns.
 
-A ‘schema’
+A ‘schema’ 
 
 NoSQL database is
 
@@ -44,7 +44,7 @@ NoSQL works
 
  is inside of a MongoDB database
 
-
+MongoDB is more flexible than SQL because 
 
 he disadvantage of a NoSQL database
 
