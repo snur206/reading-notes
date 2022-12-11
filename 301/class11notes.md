@@ -20,9 +20,9 @@ Complex query intensive environment data is a good fit for an SQL database.
 
 A real world example is how web developers and data scientists uses SQL to access data.
 
-data is a good fit a NoSQL database
+A dynamic schema for unstructured data is a good fit a NoSQL database and are highly preferred for large data set.
 
-A real world example is that 
+A real world example is how companies like Microsoft, Google, Amazon, Facebook, and Netfilx use NoSQL to storing and modeling structured, semi-structured, and unstructured data in one database. 
 
 NoSQL database is best for hierarchical data storage.
 
