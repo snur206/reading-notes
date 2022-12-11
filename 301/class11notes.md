@@ -44,9 +44,9 @@ NoSQL works by having multiple documents in one colection that  have different f
 
 Collection and document is inside of a MongoDB database.
 
-MongoDB is more flexible than SQL because 
+MongoDB is more flexible than SQL because you can split data across multiple servers and then merge it together automatically so horizontal scaling is possible in NoSQL.
 
-he disadvantage of a NoSQL database
+The disadvantage of a NoSQL database is that you cannot rely on your record to have a certain field, it might just have it because there is no schema to force it to have, no relations or very few relations where if you have a lot of write request that affect multiple collections because you then have to update some data in mulitple collections because you are duplicating it instead of keeping a relation.
 
 ## Things I want to know more about
 
