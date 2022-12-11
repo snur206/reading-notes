@@ -1,6 +1,6 @@
 # [Class 11 Reading Notes](https://github.com/snur206/reading-notes/blob/main/301/class11notes.md)
 
-This topic matters because it is introducing the topucs of nosql and sql.
+This topic matters because it is introducing the topics of nosql and sql.
 
 ## nosql vs sql
 
@@ -22,7 +22,7 @@ A real world example is how web developers and data scientists uses SQL to acces
 
 A dynamic schema for unstructured data is a good fit a NoSQL database and are highly preferred for large data set.
 
-A real world example is how companies like Microsoft, Google, Amazon, Facebook, and Netfilx use NoSQL to storing and modeling structured, semi-structured, and unstructured data in one database. 
+A real world example is how companies like Microsoft, Google, Amazon, Facebook, and Netflix use NoSQL to storing and modeling structured, semi-structured, and unstructured data in one database. 
 
 NoSQL database is best for hierarchical data storage.
 
@@ -40,13 +40,13 @@ A ‘schema’ is how data is organized in a relational database.
 
 NoSQL database has no schema and does not tables but collections.
 
-NoSQL works by having multiple documents in one colection that  have different fields. No schema applied.
+NoSQL works by having multiple documents in one collection that  have different fields. No schema applied.
 
 Collection and document is inside of a MongoDB database.
 
 MongoDB is more flexible than SQL because you can split data across multiple servers and then merge it together automatically so horizontal scaling is possible in NoSQL.
 
-The disadvantage of a NoSQL database is that you cannot rely on your record to have a certain field, it might just have it because there is no schema to force it to have, no relations or very few relations where if you have a lot of write request that affect multiple collections because you then have to update some data in mulitple collections because you are duplicating it instead of keeping a relation.
+The disadvantage of a NoSQL database is that you cannot rely on your record to have a certain field, it might just have it because there is no schema to force it to have, no relations or very few relations where if you have a lot of write request that affect multiple collections because you then have to update some data in multiple collections because you are duplicating it instead of keeping a relation.
 
 ## Things I want to know more about
 
