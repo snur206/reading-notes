@@ -18,15 +18,15 @@ Five differences between nosql and sql:
 
 Complex query intensive environment data is a good fit for an SQL database.
 
-A real world example
+A real world example is how web developers and data scientists uses SQL to access data.
 
 data is a good fit a NoSQL database
 
-A real world example
+A real world example is that 
 
- database is best for hierarchical data storage
+NoSQL database is best for hierarchical data storage.
 
-database is best for scalability
+SQL database is best for scalability.
 
 ## sql vs nosql (Video)
 
