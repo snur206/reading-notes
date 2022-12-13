@@ -38,12 +38,14 @@ app.use(express.json()) lets the server accept JSON as a body instead of a post 
 
 The difference between PUT and PATCH is that using PATCH to only update based on what the user passes us and using PUT, you are pusinging all the information all at once instead.
 
-To make a default value in a schema
+To make a default value in a schema 
 
+A 500 error status code means a server error code.
 
-
+The difference between a status 200 and a status 201
 
 
 
 ## Things I want to know more about
 
+More of an understading of MongoDb.
