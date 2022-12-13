@@ -38,13 +38,11 @@ app.use(express.json()) lets the server accept JSON as a body instead of a post 
 
 The difference between PUT and PATCH is that using PATCH to only update based on what the user passes us and using PUT, you are pusinging all the information all at once instead.
 
-To make a default value in a schema 
+To make a default value in a schema by passing Date.now.
 
-A 500 error status code means a server error code.
+A 500 error status code means a server error code where it has nothing to do with the user/client using the API.
 
-The difference between a status 200 and a status 201
-
-
+The difference between a status 200 and a status 201 is that 200 means that everything was successful and that 201 is more a more specific way to say that you have created something so when you're using a POST route, make sure to send 201 when you're successful instead of 200.
 
 ## Things I want to know more about
 
