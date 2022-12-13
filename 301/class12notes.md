@@ -28,17 +28,17 @@ The code would you use if a resource used to exist but no longer does would be 4
 
 ## Build A REST API With Node.js, Express, & MongoDB - Quick
 
-We need to pull our MongoDB database string out of our server and put it into our .env 
+We need to pull our MongoDB database string out of our server and put it into our .env to make sure nobody is able to see where the server is located.
 
+Middleware is code that runs when the server gets a request but before it gets passed to our routes.
 
+app.use(express.json()) lets the server accept JSON as a body instead of a post element.
 
+/:id means in a route that it is a parameter that we can access by typing in a request. 
 
+The difference between PUT and PATCH is that using PATCH to only update based on what the user passes us and using PUT, you are pusinging all the information all at once instead.
 
-
-
-
-
-
+To make a default value in a schema
 
 
 
