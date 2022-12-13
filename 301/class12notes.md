@@ -1,6 +1,6 @@
 # [Class 12 Reading Notes](https://github.com/snur206/reading-notes/blob/main/301/class12notes.md)
 
-This topic matters because this topic is dicussing errors and MongoDB.
+This topic matters because this topic is discussing errors and MongoDB.
 
 ## Status Codes Based On REST Methods
 
@@ -36,7 +36,7 @@ app.use(express.json()) lets the server accept JSON as a body instead of a post 
 
 /:id means in a route that it is a parameter that we can access by typing in a request. 
 
-The difference between PUT and PATCH is that using PATCH to only update based on what the user passes us and using PUT, you are pusinging all the information all at once instead.
+The difference between PUT and PATCH is that using PATCH to only update based on what the user passes us and using PUT, you are pushing all the information all at once instead.
 
 To make a default value in a schema by passing Date.now.
 
@@ -46,4 +46,4 @@ The difference between a status 200 and a status 201 is that 200 means that ever
 
 ## Things I want to know more about
 
-More of an understading of MongoDb.
+More of an understanding of MongoDb.
