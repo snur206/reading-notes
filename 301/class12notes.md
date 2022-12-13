@@ -18,25 +18,17 @@ In your own words, describe what each group of status code represents:
 
 A status code 202 tells the client that the request was valid, but its processing will finish sometime in the future.
 
-A
+A status code 308 tells the client to use another URL to access the resource and not use the current URL anymore. 
 
+The code would you use if an update didn’t return data to a client would be 204 No Content status code.
 
+The code would you use if a resource used to exist but no longer does would be 404 Not Found status code.
 
-
-
-
-
-
-
-
-
-
-
-
+ The ‘Forbidden’ status code is the status code 403 Forbidden, where the client has authorized or doesn’t need to authorize itself, but still has no permissions to access the resource.
 
 ## Build A REST API With Node.js, Express, & MongoDB - Quick
 
-
+We need to pull our MongoDB database string out of our server and put it into our .env 
 
 
 
