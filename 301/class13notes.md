@@ -17,4 +17,4 @@ The process of creating a RESTful API in 5 steps would be GET, PUT, POST, PATCH,
 
 ## Things I want to know more about
 
-CRUD.
+CRUD API.
