@@ -14,7 +14,7 @@ Diversity efforts most successful when they’re driven by a commitment from com
 
 Diverse companies perform better because they are smarter and more creative than homogeneous ones.
 
-An example of how a diverse company can serve a diverse user base 
+An example of how a diverse company can serve a diverse user base would be understanding the diverse background in a company and accepting everyone's differences you will build more effectively for people they are in common with
 
 ## Things I want to know more about
 
