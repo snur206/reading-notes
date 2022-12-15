@@ -10,9 +10,11 @@ Males playing on computers growing up matters because they gained experience usi
 
 ##  Employee breakdown of key technology companies
 
-Diversity efforts most successful when 
+Diversity efforts most successful when they’re driven by a commitment from company leaders.
 
+Diverse companies perform better because they are smarter and more creative than homogeneous ones.
 
+An example of how a diverse company can serve a diverse user base 
 
 ## Things I want to know more about
 
