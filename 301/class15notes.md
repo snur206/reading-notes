@@ -38,9 +38,11 @@ OpenID is a security technology and is about authentication.
 
 ## Authorization and Authentication flows
 
+The difference between authorization and authentication is that authentication is verifying the user and authorization is verifying what they have access to.
 
+Authorization Code Flow exchanges an Authorization Code for a token.
 
-
+Authorization Code Flow with Proof Key for Code Exchange (PKCE)
 
 
 
