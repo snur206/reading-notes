@@ -42,11 +42,11 @@ The difference between authorization and authentication is that authentication i
 
 Authorization Code Flow exchanges an Authorization Code for a token.
 
-Authorization Code Flow with Proof Key for Code Exchange (PKCE)
+Authorization Code Flow with Proof Key for Code Exchange (PKCE) is additional security with special challenges.  
 
+Implicit Flow with Form Post is  Public Clients or applications which are unable to securely store Client Secrets. 
 
-
-
+Client Credentials Flow is 
 
 
 
