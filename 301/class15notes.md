@@ -46,15 +46,11 @@ Authorization Code Flow with Proof Key for Code Exchange (PKCE) is additional se
 
 Implicit Flow with Form Post is  Public Clients or applications which are unable to securely store Client Secrets. 
 
-Client Credentials Flow is 
+Client Credentials Flow is when M2M uses when the system authenticates and authorizes the app rather than a user.
 
+Device Authorization Flow asks the user to go to a link on their computer or smartphone and authorize the device
 
-
-
-
-
-
-
+Resource Owner Password Flow requests that the user provides credentials like username and password using an interactive form.
 
 ## Things I want to know more about
 
