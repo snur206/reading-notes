@@ -1,6 +1,6 @@
-# reading-notes
+# Reading Notes
 
-## Learning Notes Code 
+## Learning Code by learning things through readings that where provided through each course at Code Fellows.
 
 My name is Sharmarke (he/him). I enjoy **sports**, mainly basketball, football and the UFC. I also enjoy listening to *rap and R&B.*
 
@@ -25,7 +25,7 @@ Three reminders keep myself in a growth mindset:
 
 [My github protfolio](https://github.com/snur206/)
 
-# Reading Notes
+# Reading Notes by courses:
 
 ## [Code 102 - Intro to Software Development](https://github.com/snur206/reading-notes/tree/main/102)
 
