@@ -33,4 +33,4 @@ Three reminders keep myself in a growth mindset:
 
 ## [Code 301 - Intermediate Software Development](https://github.com/snur206/reading-notes/tree/main/301)
 
-## [Code 401 - Advanced Software Development]()
+## [Code 401 - Advanced Software Development](https://github.com/snur206/reading-notes/tree/main/401)
