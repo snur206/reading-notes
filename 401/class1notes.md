@@ -1,6 +1,6 @@
 # [Class 1 Reading Notes](https://github.com/snur206/reading-notes/blob/main/401/class1notes.md)
 
-This topic matters because 
+This topic matters because it is the introduction to what i can expect in the course and the tech world.
 
 ## Questions
 
@@ -12,5 +12,4 @@ This topic matters because
 
 
 ## Things I want to know more about
-
 
