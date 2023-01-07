@@ -1,0 +1,7 @@
+In the "Command Line" reading, it discusses that the command line/terminal is a text based interface into the system where you can enter commands by typing on the keyboard and you will receive feedback in text. A prompt will be presented and when you type it will be displayed after the prompt. So a prompt  will be presented, outputs from the running command and a prompt will be presented again after the command runned and the terminal is ready.
+
+In the "Basic Navigation" reading, a lot of the commands in linux are named as abbreviations of a word/words describing them, making it easier to remember it. It also discusses how to navigate in the terminal, for example pwd (Print Working Directory), where it tells you the current or present working directory is an using ls to list to know where you are.
+
+In the "More About Files" reading, I leanred that everything is a file with linux. A text file is a file, a keyboard is a file, my monitor is a file, and a directory is a file. Another thing that I learned is that a file extension is normally a set of 2-4 characters at the end of a file. 
+
+In the "Manual Pages" reading 
