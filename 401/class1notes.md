@@ -10,7 +10,7 @@ Strong type is a programming language that requires a variable that needs to be 
 
 ### Explain to a non-technical friend the difference in how compilation works in Java and JavaScript.
 
-JavaScript is a light programming lanugage that is used to make web pages interactive and is known as the browsers language. Java is 
+JavaScript is a light programming lanugage that is used to make web pages interactive and is known as the browsers language. Java is one of the most popular programming lanugage 
 
 ## Things I want to know more about
 
