@@ -10,8 +10,8 @@ Strong type is a programming language that requires a variable that needs to be 
 
 ### Explain to a non-technical friend the difference in how compilation works in Java and JavaScript.
 
-Both are programming languages but JavaScript is written in text and needs to be interpreted. Java must be compiled.
+Both are programming languages but JavaScript is written in text and needs to be interpreted. Java must be compiled (taking the program that we wrote and converts it into the program the computer can understand).
 
 ## Things I want to know more about
 
-The difference from Java and JavaScript. 
+Java and how different it is from what I learned in previous courses.
