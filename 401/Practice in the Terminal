@@ -4,4 +4,6 @@ In the "Basic Navigation" reading, a lot of the commands in linux are named as a
 
 In the "More About Files" reading, I leanred that everything is a file with linux. A text file is a file, a keyboard is a file, my monitor is a file, and a directory is a file. Another thing that I learned is that a file extension is normally a set of 2-4 characters at the end of a file. 
 
-In the "Manual Pages" reading 
+In the "Manual Pages" reading, I learned that manual pages are a set of pages where it explains every command that us available in my system and what they do, how to run them, and what command line the argument accepts.
+
+In the "File Manipulation" reading, it dicusses how to make a directory using mkdir (make directory) and telling mkdir to make  parent directorie using -p, using -v to tell ing mkdir what it is doing, removing a directory using rmdir, copying a file/directory using cp, using mv to move a file/directory, and removing a file using rm.
