@@ -8,4 +8,4 @@ In the "Manual Pages" reading, I learned that manual pages are a set of pages wh
 
 In the "File Manipulation" reading, it dicusses how to make a directory using mkdir (make directory) and telling mkdir to make  parent directorie using -p, using -v to tell ing mkdir what it is doing, removing a directory using rmdir, copying a file/directory using cp, using mv to move a file/directory, and removing a file using rm.
 
-In the "Cheat Sheet" reading, it is giving us the basic navigations of symbols and abbreviations that is used in the terminal. I learned about the redirect symbols used in the terminal like > where it
+In the "Cheat Sheet" reading, it is giving us the basic navigations of symbols and abbreviations that is used in the terminal. I learned about the piping and redirection symbols used in the terminal. Some of those are like ">" where it redirects STDOUT to a file and "<" where it passes the contents of a file to a program as STDIN.
