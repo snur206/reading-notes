@@ -6,10 +6,12 @@ This topic matters because Data Structures and Algorithms are fundamental princi
 
 What is 1 of the more important things you should consider when deciding which data structure is best suited to solve a particular problem?
 
-One of the important things to consider when deciding which data structure is best suited to solve a particular problem is 
+Using the Big-O notation to add, receive, sort, and search data.
 
 How can we ensure that we’ll avoid an infinite recursive call stack?
 
 We can ensure that we’ll avoid an infinite recursive call stack
 
 ## Things I want to know more about
+
+Learning the Big-O notation. 
