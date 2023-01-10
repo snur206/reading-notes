@@ -18,7 +18,7 @@ Describe 3 built-in methods for Arrays.
 
 Use an analogy to explain Built-In packages. Give examples.
 
-Wanting to write code 
+Built-In packages are existing java packages that come with JDK, like java.lang, java.util, and java.io. An example of Built-In packages would be buying and not changing a thing, but User-defined Package, you modify the car to your liking.
 
 
 ## Things I want to know more about
