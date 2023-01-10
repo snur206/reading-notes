@@ -10,7 +10,7 @@ Using the Big-O notation to add, receive, sort, and search data.
 
 How can we ensure that we’ll avoid an infinite recursive call stack?
 
-We can ensure that we’ll avoid an infinite recursive call stack
+Using the base case condition.
 
 ## Things I want to know more about
 
