@@ -1,11 +1,8 @@
-## [Data Structures and Algorithms](https://github.com/snur206/reading-notes/blob/main/401/DataStructuresAndAlgorithms.md)
+## [Engineering Readings](https://github.com/snur206/reading-notes/blob/main/401/Engineering%20Readings.md)
 
 This topic matters because
 
 ## Discussion Questions: 
-
-
-
 
 
 
