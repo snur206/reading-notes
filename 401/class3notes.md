@@ -8,7 +8,7 @@ This reading discusses the pros and cons of using Java has two-fold type system 
 
 ## Exceptions in Java
 
-Exceptions are used in an event to handle a disruption when executing a program and disrupts the normal flow of the program's instructions. This term is short for "exceptional event". Any valid Java programming language code must honor the Catch or Specify Requirement, where the code can throw certain exceptions and must be closed by a try statement to catch the exception and a method that specifies that it can throw the exception. There are three kind of exceptions, checked exception, error, and runtime exception.   
+Exceptions are used in an event to handle a disruption when executing a program and disrupts the normal flow of the program's instructions. This term is short for "exceptional event". Any valid Java programming language code must honor the Catch or Specify Requirement, where the code can throw certain exceptions and must be closed by a try statement to catch the exception and a method that specifies that it can throw the exception. There are three kind of exceptions, checked exception, error, and runtime exception. You need to have some code to throw and exception before you catch it. Any code can do it. All methods use throw statements to throw an exception.   
 
 ## Using Scanner to read in a file in Java
 
