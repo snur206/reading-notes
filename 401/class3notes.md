@@ -12,10 +12,8 @@ Exceptions are used in an event to handle a disruption when executing a program 
 
 ## Using Scanner to read in a file in Java
 
-Scanner is useful to take an input and breaks it down into tokens. They use white space to seperate the tokens. 
-
-
+Scanner is useful to take an input and breaks it down into tokens. They use white space to seperate the tokens. It also supports tokens for all of the Java language's primitive types except for char. 
 
 ## Things I want to know more about
 
-
+Using Scanner for Java and the exceptions in Java.
