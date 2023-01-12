@@ -4,7 +4,7 @@ This topic matters because the readings dives into Java objects, Classes, and Nu
 
 ## Java OO Tutorial 
 
-
+Everything is an object, my laptop is an object, my desk is an object. In software, objects are similar to real-world objects. 
 
 ## Java Classes
 
