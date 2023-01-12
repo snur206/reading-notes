@@ -1,6 +1,6 @@
 # [Class 4 Reading Notes](https://github.com/snur206/reading-notes/blob/main/401/class4notes.md)
 
-This topic matters because the readings dives 
+This topic matters because the readings dives into Java objects, Classes, and Numbers.
 
 ## Java OO Tutorial 
 
