@@ -10,8 +10,10 @@ Rule of three ("Three strikes and you refactor"): Rule for similar pieces of cod
 
 ## You Aren’t Gonna Need It and Minimum Viable Product
 
-"You aren't gonna need it" (YAGNI): A programmer should not add functionality until deemed necessary. 
+"You aren't gonna need it" (YAGNI): A programmer should not add functionality until deemed necessary. Have done this pretty much the entirety of my time in Code Fellows whether it lab or code challenges.
 
+Minimum Viable Product (MVP): Enough usable features that work where the customor can provide feedback for future development. Experienced this for my final project in 301 when we hit our MVP and presented it knowing what would be needed to do for the future if it were a real product.
 
 ## Things I want to know more about
 
+YAGNI is a new term for me.
