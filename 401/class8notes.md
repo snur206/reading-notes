@@ -4,7 +4,7 @@ This topic matters because it is meanings to some terms in coding.
 
 ## Don’t Repeat Yourself but consider the Rule of Three
 
-"Don't repeat yourself" (DRY): Reducing repeating yourself in coding. Have done that in the past at Code Fellows, intoduced to this in 301 and have used it recently in 401.
+"Don't repeat yourself" (DRY): Reducing repeating yourself in coding. Have done that in the past at Code Fellows, introduced to this in 301 and have used it recently in 401.
 
 Rule of three ("Three strikes and you refactor"): Rule for similar pieces of code to be refactored to avoid duplication. Like what we are currently doing in lab.
 
@@ -12,7 +12,7 @@ Rule of three ("Three strikes and you refactor"): Rule for similar pieces of cod
 
 "You aren't gonna need it" (YAGNI): A programmer should not add functionality until deemed necessary. Have done this pretty much the entirety of my time in Code Fellows whether it lab or code challenges.
 
-Minimum Viable Product (MVP): Enough usable features that work where the customor can provide feedback for future development. Experienced this for my final project in 301 when we hit our MVP and presented it knowing what would be needed to do for the future if it were a real product.
+Minimum Viable Product (MVP): Enough usable features that work where the customer can provide feedback for future development. Experienced this for my final project in 301 when we hit our MVP and presented it knowing what would be needed to do for the future if it were a real product.
 
 ## Things I want to know more about
 
