@@ -4,7 +4,7 @@ This topic matters because it is meanings to some terms in coding.
 
 ## Don’t Repeat Yourself but consider the Rule of Three
 
-"Don't repeat yourself" (DRY): Reducing repeating yourself in coding. Have done that in the past at Code Fellows, intoduced to this in 301 and have used it recentely in 401.
+"Don't repeat yourself" (DRY): Reducing repeating yourself in coding. Have done that in the past at Code Fellows, intoduced to this in 301 and have used it recently in 401.
 
 Rule of three ("Three strikes and you refactor"): Rule for similar pieces of code to be refactored to avoid duplication. Like what we are currently doing in lab.
 
