@@ -12,13 +12,14 @@ Going over the HTTP request cycle with five steps.
 
 Step 1: Local Processing- Request being made by the browser.
 
-Step 2:
+Step 2: Resolve an IP- Client having an IP address.
 
-Step 3:
+Step 3: Establish a TCP Connection- Client having TCP Connection.
 
-Step 4:
+Step 4: Send an HTTP Request- Client having an IP address and a TCP Connection to send HTTP requests.
 
-Step 5:
+Step 5: Tearing Down and Cleaning Up- An HTTP transaction being done.
+
 ## Things I want to know more about
 
 HTTP requests in Java compared to JS.
