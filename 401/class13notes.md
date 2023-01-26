@@ -16,7 +16,7 @@ Relationships:
 
 ## Baeldung: Spring Integration Testing
 
-Learning to leverage the Spring MVC test framework to write and run tests that test controllers without explicitly starting a Servlet container. WebApplicationContext provides a web application configuration, loading all the application beans and controllers into the context. MockMvc provides support for Spring MVC testing, summarizes all web application beans and makes them available for testing. The reading demostrated how to do some Spring tests.
+Learning to leverage the Spring MVC test framework to write and run tests that test controllers without explicitly starting a Servlet container. WebApplicationContext provides a web application configuration, loading all the application beans and controllers into the context. MockMvc provides support for Spring MVC testing, summarizes all web application beans and makes them available for testing. The reading demonstrated how to do some Spring tests.
 
 ## Things I want to know more about
 
