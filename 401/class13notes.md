@@ -6,7 +6,7 @@ This topic matters because it is a continuation of Spring, but regarding relatio
 
 It is a tutorial on the relationships between entities in Spring Data REST. 
 
-One-to-One Relationship: 
+Relationships: 
 
 - The Data Model: Library and Address are two entity classes that have one-to-one relationship by using the @OneToOne annotation.
 
