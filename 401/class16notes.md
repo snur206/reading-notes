@@ -1,6 +1,6 @@
 # [Class 16 Reading Notes](https://github.com/snur206/reading-notes/blob/main/401/class16notes.md)
 
-This topic matters because it is introduction to spring security.
+This topic matters because it is introduction to Spring Security and Spring Auth.
 
 ## Spring Security overview
 
@@ -12,4 +12,4 @@ This is a 7 step cheat sheet on Spring Auth.
 
 ## Things I want to know more about
 
-The Spring Auth compared to Autho0.
+The Spring Auth compared to Auth0.
