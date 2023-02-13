@@ -10,9 +10,7 @@ Intent ties individual components to each other at runtime and a messaging objec
 
 Describe an Activity in your own word.
 
-
-
-
+Activity is the start of the app to interact with the user where in a single screen can represent an entire app to explore.
 
 ## Things I want to know more about
 
