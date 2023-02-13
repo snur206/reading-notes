@@ -14,4 +14,4 @@ Activity is the start of the app to interact with the user where in a single scr
 
 ## Things I want to know more about
 
-Andriod Stuidos and getting it started
+Android Studios and getting it started.
