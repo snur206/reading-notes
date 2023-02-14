@@ -20,6 +20,7 @@ Why is testing important? Give at least 4 reasons, and explain which is the most
 
 Create an analogy for Tasks and the back stack. Have we used a similar system before? Explain.
 
+Opening doors that opens up more doors to open but only going back is going through the same door, kind of like following a trail in a scavenger hunt. I believe we have with queue using FIFO. 
 
 ## Things I want to know more about
 
