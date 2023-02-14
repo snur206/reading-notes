@@ -21,7 +21,6 @@ Why is testing important? Give at least 4 reasons, and explain which is the most
 Create an analogy for Tasks and the back stack. Have we used a similar system before? Explain.
 
 
-
 ## Things I want to know more about
 
 How these tie into creating an app in Android Studios
