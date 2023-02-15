@@ -10,6 +10,7 @@ It makes it dynamic because doesn't destroy its view, it reuses the view for new
 
 Share a screenshot of a recycler view in an application you use!
 
+Attempted but not successful.
 
 ## Things I want to know more about
 
