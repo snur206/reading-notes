@@ -1,6 +1,6 @@
 # [Class 32 Reading Notes](https://github.com/snur206/reading-notes/blob/main/401/class31notes.md)
 
-This topic matters because it i
+This topic matters because it is a intro to GraphQL.
 
 ## Questions
 
