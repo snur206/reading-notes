@@ -6,7 +6,7 @@ This topic matters because it is an intro to Google Play Store.
 
 How are releases and versioning related?
 
-Releases and versioning are related because both are 
+Releases and versioning are related because both are connected to your app.
 
 What are the 5 main tasks you need to complete to prepare your application for release to the Google Play Store?
 
