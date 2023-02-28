@@ -20,6 +20,7 @@ What is an object key?
 
 A unique identifier for an object w/in a bucket.
 
+What is Amazon S3? - amazon simple storage service (no date). Available at: https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html (Accessed: February 28, 2023). 
 
 ## S3 with Amplify
 
