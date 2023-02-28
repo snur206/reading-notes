@@ -26,18 +26,17 @@ What is Amazon S3? - amazon simple storage service (no date). Available at: http
 
 Which dependencies are needed to install Amplify AWS S3 to your ndroid application?
 
+`implementation 'com.amplifyframework:aws-storage-s3:2.2.2'`
 
+`implementation 'com.amplifyframework:aws-auth-cognito:2.2.2'`
 
 What is needed in order to upload data to your bucket?
 
-
-
+You specify the key and the data object.
 
 what method(s) initialize(s) the Amplify Auth and Storage categories?
 
-
-
-
+Call `Amplify.addPlugin()` for each category, then `Amplify.configure()` to complete the initialization call.
 
 ## Things I want to know more about
 
