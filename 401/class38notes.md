@@ -20,7 +20,7 @@ Used so that different activities in your project on Android Studios can be conn
 
 Compare and contrast implicit and explicit intents.
 
-
+Explicit intent is used to to start a component in your own app and implicit intent do not name a specific component. 
 
 
 
@@ -30,4 +30,4 @@ What is the primary information contained within an Intent?
 
 ## Things I want to know more about
 
-Intents and 
+More on implicit and explicit intents
