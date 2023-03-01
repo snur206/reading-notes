@@ -24,7 +24,7 @@ Explicit intent is used to to start a component in your own app and implicit int
 
 What is the primary information contained within an Intent?
 
-
+Component name, Action, Action, Data, Category, Extras, and Flags
 
 ## Things I want to know more about
 
