@@ -20,9 +20,7 @@ Used so that different activities in your project on Android Studios can be conn
 
 Compare and contrast implicit and explicit intents.
 
-Explicit intent is used to to start a component in your own app and implicit intent do not name a specific component. 
-
-
+Explicit intent is used to to start a component in your own app and implicit intent do not name a specific component. Both are used in your app where they are connected with an app or a response to the users actions.
 
 What is the primary information contained within an Intent?
 
