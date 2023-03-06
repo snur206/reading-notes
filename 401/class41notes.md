@@ -20,7 +20,7 @@ An service that converts text to speech. It can help those with visual disabilit
 
 What are the benefits of the Amazon Polly service?
 
-Offers customers the most natural and human-like text-to-speech voices possible, supports multiple languages and includes a variety of lifelike voices.
+Offers customers the most natural and human-like text-to-speech voices possible, supports multiple languages, and includes a variety of lifelike voices.
 
 ## Things I want to know more about
 
