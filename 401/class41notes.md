@@ -1,16 +1,16 @@
 # [Class 41 Reading Notes](https://github.com/snur206/reading-notes/blob/main/401/class41notes.md)
 
-This topic matters because it is 
+This topic matters because it is intro to Amazon Pinpoint and Amazon Polly.
 
 ## Amazon Pinpoint (we are using this for analytics)
 
 What are three use cases for Amazon Pinpoint?
 
-
+Send one-time passwords securely, engage with users in real time, and inform customers when orders are picked up, in transit, or delivered to their door.
 
 What are some analytics you think would be important to track in an application?
 
-
+How long a user would spend on an app and track suspicious activity.
 
 ## Amazon Polly (we are using this for text-to-speech)
 
