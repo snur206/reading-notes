@@ -16,12 +16,12 @@ How long a user would spend on an app and track suspicious activity.
 
 In non-technical terms, what service does Amazon Polly provide?
 
-
+An service that converts text to speech. It can help those with visual disability.
 
 What are the benefits of the Amazon Polly service?
 
-
-
+Offers customers the most natural and human-like text-to-speech voices possible, supports multiple languages and includes a variety of lifelike voices.
 
 ## Things I want to know more about
 
+Amazon Polly and Amazon Pinpoint.
