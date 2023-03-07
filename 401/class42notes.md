@@ -6,11 +6,11 @@ This topic matters because it is intro to monetization and Google AdMob.
 
 How are the ads shown in your application determined when using Google AdMob?
 
-
+You create ad space in your app, the highest performing ads will be shown in your app to your users, and you get paid.
 
 Whate are the platforms which support Google AdMob?
 
-
+ Android, iOS, Unity, C++, and Flutter.
 
 ## Google’s monetization guide
 
