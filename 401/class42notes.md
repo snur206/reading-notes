@@ -16,7 +16,7 @@ Whate are the platforms which support Google AdMob?
 
 What are some of the ways you can make money in your app by monetizing with Google?
 
-
+By reaching to paying customers by increasing engagement by offering free trials, introductory pricing, promo codes, etc. You can also use subscription insights to count how much you earn from each subscription tier, tracking retention, and see which features attract the most interest from your users.
 
 ## Things I want to know more about
 
