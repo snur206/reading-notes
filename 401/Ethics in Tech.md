@@ -4,3 +4,8 @@ In the reading, "The code I’m still ashamed of", by Bill Sourour, he discusses
 
 ## Ethics in Technology
 
+In the reading, "The ethical dilemmas of self-driving cars", by Peter Nowak, he discusses self driving car and who they protect. He states that multiple studies, according to a 2015 report by McKinsey & Company, have estimated that self driving cars would dramatically reduce road accidents up to 90%. Ford Motor Co. chairman Bill Ford stated that nobody is talking about ethics and that if self driving technology is really going to serve society, then the issue of ehtics have to be resolved, and resolved soon. Considering the ethical dilemma, how would different circumstances that can happen when using a self driving car how would it react? According to a study done in 2016 suggests that the issue isn't solely about ethics, but about control.
+
+Do you agree or disagree with these articles? What stuck out to you specifically from each article?
+
+I agree with both of these articles because it discusses the power and influence that modern technology can have and how relient we are as clients and that is something that I found connected both of these articles. With the first article, them targeting women, but teenage girls was weird to me. For the second article, the questions that were asked about how a self driving would react to different situations stuck out to me because it was questions that I had when being first introduced to these cars.
