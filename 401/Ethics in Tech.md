@@ -1,10 +1,5 @@
 ## Ethics in the workplace
 
-In the reading, "The code I’m still ashamed of", by Bill Sourour, he discusses his story and how you could be asked to do something unethical. It happened to him in 2000 and it is something he will never forget. He was writing code from a young age and was building websites and coded small components for business apps, so he had the passion for coding at a young age. He then got a full time coding job at 21 from a firm founded by a medical doctor and majority of its clients were large pharmaceutical companies. 
-
-
-
-
-
+In the reading, "The code I’m still ashamed of", by Bill Sourour, he discusses his story and how you could be asked to do something unethical. It happened to him in 2000 and it is something he will never forget. He was writing code from a young age and was building websites and coded small components for business apps, so he had the passion for coding at a young age. He then got a full time coding job at 21 from a firm founded by a medical doctor and majority of its clients were large pharmaceutical companies with numerous requirements due to Canadian laws. One project he was assigned to do was a drug targeted at women and with graphics and general style, it was specifically target teenage girls. His project manager then decided to test the quiz before it went out to clients, and went up to his desk and said that it doesn't work because it leads to a clients drug, which it is what it was supposed to do, is what he said to her. He felt guilt because it was something designed to trick girls. He went to dinner and got an email with a link a news report online about a young girl who had taken the drug I’d built the website for. Commiting suicide, where one of the main side effects of that drug were severe depression and suicidal thoughts. Not to long after the dinner, he resigned and since then he tries to think twice about the effects of his code before he writes it.
 
 ## thics in Technology
